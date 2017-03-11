@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/Ryuno-Ki/aframe-first-try/issues"
   },
-  "homepage": "https://github.com/Ryuno-Ki/aframe-first-try#readme"
+  "homepage": "https://github.com/Ryuno-Ki/aframe-first-try#README.md",
+  "dependencies": {
+    "aframe": "^0.5.0"
+  },
+  "devDependencies": {
+    "angle": "^0.4.19"
+  }
 }
