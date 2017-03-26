@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/Ryuno-Ki/aframe-first-try#README.md",
   "dependencies": {
-    "aframe": "^0.5.0"
+    "aframe": "^0.5.0",
+    "aframe-speech-command-component": "^0.4.2"
   },
   "devDependencies": {
     "angle": "^0.4.19"
